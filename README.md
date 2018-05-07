@@ -9,7 +9,7 @@ This code is for academic purpose only. Not for commercial/industrial activities
 
 NOTE:
 
-This Matlab version is a re-implementation with HSID-CNN, and is for the ease of understanding the algorithm. This code is not optimized, and the speed is not representative. The result can be slightly different from the paper due to transferring across platforms.
+This Matlab version is a re-implementation with HSID-CNN(In peer-review), and is for the ease of understanding the algorithm. This code is not optimized, and the speed is not representative. The result can be slightly different from the paper due to transferring across platforms.
 
 Enviroment:
 
