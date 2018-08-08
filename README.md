@@ -1,9 +1,9 @@
-**Matlab demo code for HSID-CNN**
+**Matlab demo code for HSID-CNN (IEEE TGRS, 2018)**
 
     by Qiang Zhang (whuqzhang@gmail.com)
     School of Geodesy and Geomatics, Wuhan University, China.
 
-    If you use/adapt our code in your work (either as a stand-alone tool or as a component of any algorithm), please cite our paper.
+    If you use/adapt our code in your work (either as a stand-alone tool or as a component of any algorithm), please cite our paper. 
 
     This code is for academic purpose only. Not for commercial/industrial activities.
 
