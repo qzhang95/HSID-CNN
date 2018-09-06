@@ -15,3 +15,5 @@ Enviroment:
 
      Window 7, Cuda 7.5, Caffe framework (**Necessary, GPU mode better**), Matlab R2014b. 
      Place set this folder into "($Caffe_Dir)/examples/"
+
+If you need more models, please contact me. (whuqzhang@gmail.com)
