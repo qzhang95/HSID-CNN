@@ -1,4 +1,4 @@
-Downloading W.D.C HSIdata(200*200*191), then place the "GT_crop.mat"  into the folder "Data".
+Downloading W.D.C HSI data(200*200*191), then place the "GT_crop.mat"  into the folder "Data".
 
 Link:
 https://pan.baidu.com/s/1JmFBtf7ixdVi3LdJwM4J1w
