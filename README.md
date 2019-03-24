@@ -1,5 +1,4 @@
 **HSID-CNN**
-====
 ***********************************************************************************************************
 **Matlab demo code for Hyperspectral Image Denoising Employing a Spatial–Spectral Deep Residual Convolutional Neural Network(HSID-CNN)**
 
