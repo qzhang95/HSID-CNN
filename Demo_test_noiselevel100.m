@@ -1,4 +1,6 @@
-%% settings
+
+%% Qiang Zhang, Wuhan University.
+%% whuqzhang@gmail.com
 
 clear;close all;
 
