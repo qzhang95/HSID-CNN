@@ -1,6 +1,5 @@
 function [psnr_cur, ssim_cur, cc_cur] = Cal_PSNRSSIM(A,B,row,col)
 
-
 [n,m,ch]=size(B);
 A = A(row+1:n-row,col+1:m-col,:);
 B = B(row+1:n-row,col+1:m-col,:);
