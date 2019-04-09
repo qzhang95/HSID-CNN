@@ -10,6 +10,18 @@
 If you use/adapt our code in your work (either as a stand-alone tool or as a component of any algorithm), **please cite our paper**. 
 
 **Q. Yuan, Q. Zhang, J. Li, H. Shen, and L. Zhang**, "Hyperspectral Image Denoising Employing a Spatial–Spectral Deep Residual Convolutional Neural Network," ***IEEE Transactions on Geoscience and Remote Sensing***, vol. 57, no. 2, pp. 1205-1218, 2019.
+      
+      @ARTICLE{yuan2019,
+      author={Q. {Yuan} and Q. {Zhang} and J. {Li} and H. {Shen} and L. {Zhang}}, 
+      journal={IEEE Trans. Geosci. Remote Sens.}, 
+      title={Hyperspectral Image Denoising Employing a Spatialâ€“Spectral Deep Residual Convolutional Neural Network}, 
+      year={2019}, 
+      volume={57}, 
+      number={2}, 
+      pages={1205-1218},  
+      month={Feb.},}
+
+
 
 This code is for academic purpose only. Not for commercial/industrial activities.
 
