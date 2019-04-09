@@ -14,7 +14,7 @@ If you use/adapt our code in your work (either as a stand-alone tool or as a com
       @ARTICLE{yuan2019,
       author={Q. {Yuan} and Q. {Zhang} and J. {Li} and H. {Shen} and L. {Zhang}}, 
       journal={IEEE Trans. Geosci. Remote Sens.}, 
-      title={Hyperspectral Image Denoising Employing a Spatialâ€“Spectral Deep Residual Convolutional Neural Network}, 
+      title={Hyperspectral Image Denoising Employing a Spatial-Spectral Deep Residual Convolutional Neural Network}, 
       year={2019}, 
       volume={57}, 
       number={2}, 
@@ -24,6 +24,7 @@ If you use/adapt our code in your work (either as a stand-alone tool or as a com
 
 
 This code is for academic purpose only. Not for commercial/industrial activities.
+
 
 
 
