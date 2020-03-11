@@ -1,15 +1,15 @@
 Downloading W.D.C HSI data(200*200*191), then place the "GT_crop.mat"  into the folder "Data".
 
 Link:
-https://pan.baidu.com/s/1JmFBtf7ixdVi3LdJwM4J1w
+https://pan.baidu.com/s/1hB7HSL6bBSrnOTqP0a4HEg
 Password:
-ewzj
+la2f
 
 --------------------------------------------------------------------------------------------
 
 Indian Pines and Pavia University:
 Link:
-https://pan.baidu.com/s/1Zxhmgo0pTM3kcWMfi4X7Zw
+https://pan.baidu.com/s/19HXlZnbONedfYKD9p8AnFw
 Password:
-ljnz
+giuq
 
