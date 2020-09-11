@@ -1,9 +1,11 @@
 Downloading W.D.C HSI data(200*200*191), then place the "GT_crop.mat"  into the folder "Data".
 
-Link:
-链接: https://pan.baidu.com/s/1ilHQJ9-s9q9Pay_ykNZWBg
-Password:
-rkfg
+Link: https://pan.baidu.com/s/1ilHQJ9-s9q9Pay_ykNZWBg
+Password: rkfg
+
+or 
+
+Link: https://drive.google.com/file/d/1Iy03Ozz6jgvRefeihollkz5W6tWYnEq8/view?usp=sharing
 
 --------------------------------------------------------------------------------------------
 
